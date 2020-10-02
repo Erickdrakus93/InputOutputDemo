@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "InputOutputDemo"
+    }
+  },
+  "defaultProject": "InputOutputDemo",
+  "cli": {
+    "analytics": "acbbb9c4-9717-4b3f-9e0b-182b1f9a0ec0"
+  }
 }
